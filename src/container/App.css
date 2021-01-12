@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Aquatic Personal Use";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Aquatic Personal Use"),
+    url("AquaticPersonalUse-d9y4l.woff") format("woff");
+}
+h1 {
+  font-family: "Aquatic Personal Use";
+}
